@@ -24,3 +24,8 @@ To run the code you need to install the graphics library Pillow-Pil - the same l
   <li>Finally, try hierarchical clustering of documents by running `hclustertitles.py`. Hierarchical clustering seems to work much better. Why do you think that is?
   </li>
 </ol>
+
+## Part II. Homework
+### Clustering countries 
+See <a href="https://docs.google.com/document/d/1x1odD42pG4v0E0ioEgKblb6hBwf-FhH0lYzRlvSSAcE/edit?usp=sharing">Google doc</a>.
+
